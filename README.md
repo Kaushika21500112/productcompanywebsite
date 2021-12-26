@@ -575,7 +575,7 @@ body{
             </div>
         </div>
     </body>
-    
+
 </html>
 ~~~
 ## OUTPUT:
@@ -585,7 +585,7 @@ body{
 ## Products Page:
 ![output2](./images/output2.png)
 ## People Page:
-![output3](./images/output3.png)
+![GitHub Logo](./images/output3.png)
 ## Contact Us Page:
 ![output4](./images/output4.png)
 ## Result:
