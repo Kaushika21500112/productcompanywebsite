@@ -278,23 +278,26 @@ body{
           <h1><u>About</u></h1>
           <img src="./img/image.jpg" alt="digi" />
           <div class="contenttext">
-            Digitrove is a global leader in next-generation digital services in the digital art industry.We empower
-            the business with our intricate tools that are generally time comsuming to customize, easily available
+            Digitrove is a global leader in next-generation digital services in the digital art industry.Our primary goal is to 
+            provide clients with the best softwares products designed solely for smooth digital artworks with high-quality import.
+            <br/>
+            We empower the business with our intricate tools that are generally time comsuming to customize, easily available
             and compatable to multiple softwares to deliver unprecedented levels of performance and customer delight. 
+            <br/>
             Our always-improving agenda drives the continuous development and creation of newer tools with hyper-realistic 
             details and unimaginable colours using the user preference and modification data, for better expirience.
             <br/>
-            <h1>Every digital artist's Heaven </h1>
+            <h1><u>Every digital artist's Heaven </u></h1>
             In the past 6 years, Digitrove has stayed as a vital resourse platform for budding beginners and 
             even professionals worldwide. 
             <br/>
-            Our mission is to provide high end digital devices and compatable
-            software tools for digital artists to create precise and detailed artworks with ease.
-            <h1>Features</h1>
+            Our mission is to provide high end softwares and application tools compatable with foregin softwares
+            for digital artists to create precise and detailed artworks with ease and comfort.
+            <h1><u>Features</u></h1>
             <ul>
-              <li>Best available digipad and stylus</li>
-              <li>Downloadable and customizable Brush styles</li>
-              <li>Unique individual colors and color palettes</li>
+              <li>Best digital art software with upto 11th gen configuratons</li>
+              <li>Licenced and Open sourse products with installed high level security</li>
+              <li>Downloadable and customizable brush styles and color palettes compatable with foregin softwares</li>
             </ul>
           </div>
         </div>
@@ -328,72 +331,75 @@ body{
       <div class="content">
         <div class="productcontent">
           <h2 class="heading2">OUR PREMIUM PRODUCTS</h2>
-          <h3 class="heading2"><u>DRAWING-PADS AND STYLUS</u></h3>
+          <h2 class="heading2"><u>Softwares-Paid</u></h2>
           <div class="productitems">
             <div class="productitem">
               <div class="itemimage">
-              <img src="./img/prod1.jpg" alt="product 1">
+              <img src="./img/product1.jpg" alt="product 1">
               </div>
-              <div class="itemname">Office Art Digital Graphics Drawing Tablet Board</div>
+              <div class="itemname"> iBubble PaintX </div>
               <div class="itemprice">Price: Rs.19,446.00</div>
             </div>
             <div class="productitem">
               <div class="itemimage">
-              <img src="./img/prod2.jpg" alt="product 2">
+              <img src="./img/product2.jpg" alt="product 2">
               </div>
-              <div class="itemname">Multi-function Handwriting Digital Stylus</div>
+              <div class="itemname">Procreate</div>
               <div class="itemprice">Price: Rs.10,550</div>
             </div>
             <div class="productitem">
               <div class="itemimage">
-              <img src="./img/prod3.jpeg" alt="product 3">
+              <img src="./img/product3.jpg" alt="product 3">
               </div>
-              <div class="itemname">Digital graphics touchpad for PC/Laptop</div>
+              <div class="itemname">SketchPad</div>
               <div class="itemprice">Price: Rs.8,000</div>
             </div>
             <br/>
-            <h2 class="heading2"><u>Brush Collections</u></h2>
+            <h2 class="heading2"><u>Softwares-Free</u></h2>
             <br/>
             <div class="productitem">
               <div class="itemimage">
-              <img src="./img/prod4.jpg" alt="product 4">
+              <img src="./img/product4.jpg" alt="product 4">
+              </div>
+              <div class="itemname">Canva</div>
+              <div class="itemprice">Price: Free</div>
+          </div>
+          <div class="productitem">
+            <div class="itemimage">
+            <img src="./img/product5.png" alt="product 5">
+            </div>
+            <div class="itemname">Spark</div>
+            <div class="itemprice">Price: Free</div>
+          </div>
+          <div class="productitem">
+            <div class="itemimage">
+            <img src="./img/product6.jpg" alt="product 6">
+            </div>
+            <div class="itemname">ArtQuid</div>
+            <div class="itemprice">Price: Free</div>
+          </div>
+          <br>
+          <h2 class="heading2"><u>Brush Collections</u></h2>
+          <br>
+          <div class="productitem">
+              <div class="itemimage">
+              <img src="./img/product7.jpg" alt="product 7">
+              </div>
+              <div class="itemname">Glitz-RoseGold</div>
+              <div class="itemprice">Price: Rs.1999.00</div>
+            </div>
+            <div class="productitem">
+              <div class="itemimage">
+              <img src="./img/product8.jpg" alt="product 8">
               </div>
               <div class="itemname">Glitz-Pink</div>
-              <div class="itemprice">Price: Rs.1500.00</div>
-          </div>
-          <div class="productitem">
-            <div class="itemimage">
-            <img src="./img/prod5.jpg" alt="product 5">
-            </div>
-            <div class="itemname">Glitz-Black</div>
-            <div class="itemprice">Price:Rs.1500.00</div>
-          </div>
-          <div class="productitem">
-            <div class="itemimage">
-            <img src="./img/prod6.jpg" alt="product 6">
-            </div>
-            <div class="itemname">Glitz-Rose gold</div>
-            <div class="itemprice">Price: Rs.1500.00</div>
-          </div>
-          <div class="productitem">
-              <div class="itemimage">
-              <img src="./img/prod7.jpg" alt="product 7">
-              </div>
-              <div class="itemname">Monochrome B&W</div>
-              <div class="itemprice">Price: Rs.999.00</div>
+              <div class="itemprice">Price: Rs.1900.00</div>
             </div>
             <div class="productitem">
               <div class="itemimage">
-              <img src="./img/prod8.jpg" alt="product 8">
+              <img src="./img/product9.jpg" alt="product 9">
               </div>
-              <div class="itemname">Natural Curls</div>
-              <div class="itemprice">Price: Rs.2300.00</div>
-            </div>
-            <div class="productitem">
-              <div class="itemimage">
-              <img src="./img/prod9.jpg" alt="product 9">
-              </div>
-              <div class="itemname">Classic Locks</div>
+              <div class="itemname">Glitz-Black</div>
               <div class="itemprice">Price: Rs.895.00</div>
             </div>
             <br/>
@@ -429,7 +435,6 @@ body{
     </div>
   </body>
 </html>
-
 ~~~
 ## People Page html
 ~~~
@@ -456,45 +461,45 @@ body{
                     <div class="peoplepics">
                         <div class="peoplepic">
                             <div class="peopleimage">
-                                <img src="./img/people1.jpg" alt="peo1">
+                                <img src="./img/people01.jpg" alt="peo1">
                             </div>
-                            <div class="peoplename">Ms.Sara Ludy</div>
-                            <div class="peopledes">Chairperson</div>
+                            <div class="peoplename">Ms.Rachel DiPillo</div>
+                            <div class="peopledes">Founder/Chairperson</div>
                         </div>
                         <div class="peoplepic">
                             <div class="peopleimage">
-                                <img src="./img/people2.jpg" alt="peo2">
+                                <img src="./img/people02.jpg" alt="peo2">
                             </div>
-                            <div class="peoplename">Mr.Lev Manovich</div>
+                            <div class="peoplename">Mr.Colin Donnel</div>
                             <div class="peopledes">President</div>
                         </div>
                         <div class="peoplepic">
                             <div class="peopleimage">
-                                <img src="./img/people3.jpg" alt="peo3">
-                            </div>
-                            <div class="peoplename">Ms.Mehda Srinivastava</div>
-                            <div class="peopledes">Head of HR Department</div>
-                        </div>
-                        <div class="peoplepic">
-                            <div class="peopleimage">
-                                <img src="./img/people4.jpg" alt="peo4">
+                                <img src="./img/people03.jpg" alt="peo3">
                             </div>
                             <div class="peoplename">Ms.Seo DalMi</div>
                             <div class="peopledes">Chief Executive Officer</div>
                         </div>
                         <div class="peoplepic">
                             <div class="peopleimage">
-                                <img src="./img/people5.jpg" alt="peo5">
+                                <img src="./img/people04.jpg" alt="peo4">
                             </div>
                             <div class="peoplename">Mr.Nam DoSan</div>
                             <div class="peopledes">Chief Technology Officer</div>
                         </div>
                         <div class="peoplepic">
                             <div class="peopleimage">
-                                <img src="./img/people6.jpg" alt="peo6">
+                                <img src="./img/people05.jfif" alt="peo5">
                             </div>
-                            <div class="peoplename">Mr.Ganesh S</div>
-                            <div class="peopledes">Head of Management and Finances Department</div>
+                            <div class="peoplename">Ms.Maryline Barret</div>
+                            <div class="peopledes">Cheif Operations Officer</div>
+                        </div>
+                        <div class="peoplepic">
+                            <div class="peopleimage">
+                                <img src="./img/people06.jpg" alt="peo6">
+                            </div>
+                            <div class="peoplename">Mr.Mikhail Varshavski</div>
+                            <div class="peopledes">Cheif Financial Officer</div>
                         </div>
                     </div>
                 </div>
@@ -581,13 +586,13 @@ body{
 ## OUTPUT:
 
 ## Home Page:
-![Output](./images/output.png)
+![Output](./images/outpt1.png)
 ## Products Page:
-![output2](./images/output2.png)
+![output2](./images/outpt2.png)
 ## People Page:
-![GitHub Logo](./images/output3.png)
+![GitHub Logo](./images/outpt3.png)
 ## Contact Us Page:
-![output4](./images/output4.png)
+![output4](./images/outpt4.png)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
